@@ -1,0 +1,6 @@
+title: XenSense
+
+theme: minima
+
+exclude:
+- README.md
