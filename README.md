@@ -1,3 +1,3 @@
 # xensense.github.io
 
-XenXense webpage
+XenSense webpage
